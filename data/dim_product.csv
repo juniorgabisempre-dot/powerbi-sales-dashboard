@@ -1,0 +1,27 @@
+product_id,product_name,category,unit_cost,list_price
+PROD-0001,Fone de Ouvido Bluetooth,Eletrônicos,186.08,265.1
+PROD-0002,Carregador Portátil 10000mAh,Eletrônicos,16.69,35.92
+PROD-0003,Mouse Sem Fio,Eletrônicos,194.22,347.07
+PROD-0004,Teclado Mecânico,Eletrônicos,125.13,245.76
+PROD-0005,Caixa de Som Bluetooth,Eletrônicos,44.14,80.09
+PROD-0006,Smartwatch Fitness,Eletrônicos,24.9,46.72
+PROD-0007,Panela Antiaderente 24cm,Casa e Cozinha,154.3,320.35
+PROD-0008,Liquidificador 3 Velocidades,Casa e Cozinha,23.95,44.45
+PROD-0009,Jogo de Talheres Inox,Casa e Cozinha,84.08,121.46
+PROD-0010,Air Fryer 4L,Casa e Cozinha,194.09,314.09
+PROD-0011,Cafeteira Elétrica,Casa e Cozinha,41.05,66.78
+PROD-0012,Caderno Universitário 200fl,Papelaria,79.52,161.79
+PROD-0013,Kit Canetas Coloridas,Papelaria,174.72,365.66
+PROD-0014,Mochila Escolar,Papelaria,164.71,323.85
+PROD-0015,Agenda 2026,Papelaria,182.95,349.45
+PROD-0016,Organizador de Mesa,Papelaria,150.41,293.37
+PROD-0017,Tênis de Corrida,Esporte e Lazer,71.73,123.57
+PROD-0018,Garrafa Térmica 1L,Esporte e Lazer,141.98,235.96
+PROD-0019,Bola de Futebol Society,Esporte e Lazer,58.35,104.87
+PROD-0020,Tapete de Yoga,Esporte e Lazer,129.64,251.52
+PROD-0021,Mochila de Trilha 30L,Esporte e Lazer,95.3,187.64
+PROD-0022,Camiseta Básica Algodão,Moda,58.32,116.08
+PROD-0023,Jaqueta Corta-Vento,Moda,113.9,199.57
+PROD-0024,Boné Aba Curva,Moda,88.34,181.31
+PROD-0025,Mochila Casual,Moda,34.93,64.38
+PROD-0026,Óculos de Sol UV400,Moda,118.05,227.55

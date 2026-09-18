@@ -1,0 +1,61 @@
+customer_id,customer_name,email,state,segment,signup_date
+CUST-0001,Ana Souza,ana.souza1@exemplo.com,GO,Pequena Empresa,2024-10-11
+CUST-0002,Isabela Nascimento,isabela.nascimento2@exemplo.com,MG,Corporativo,2025-02-02
+CUST-0003,Felipe Santos,felipe.santos3@exemplo.com,CE,Corporativo,2024-04-17
+CUST-0004,Henrique Costa,henrique.costa4@exemplo.com,PR,Varejo,2025-06-17
+CUST-0005,Eduarda Alves,eduarda.alves5@exemplo.com,RJ,Varejo,2024-03-25
+CUST-0006,Felipe Lima,felipe.lima6@exemplo.com,CE,Varejo,2025-05-13
+CUST-0007,Marcos Carvalho,marcos.carvalho7@exemplo.com,PE,Pequena Empresa,2024-12-06
+CUST-0008,Vitória Ribeiro,vitória.ribeiro8@exemplo.com,SP,Varejo,2024-07-13
+CUST-0009,Isabela Silva,isabela.silva9@exemplo.com,SP,Pequena Empresa,2024-07-20
+CUST-0010,Isabela Nascimento,isabela.nascimento10@exemplo.com,GO,Pequena Empresa,2025-01-10
+CUST-0011,Gabriela Rodrigues,gabriela.rodrigues11@exemplo.com,RJ,Varejo,2025-05-13
+CUST-0012,Gabriela Santos,gabriela.santos12@exemplo.com,PE,Corporativo,2024-01-24
+CUST-0013,Otávio Monteiro,otávio.monteiro13@exemplo.com,PR,Pequena Empresa,2024-12-23
+CUST-0014,Vitória Oliveira,vitória.oliveira14@exemplo.com,PR,Corporativo,2025-05-01
+CUST-0015,Wesley Ribeiro,wesley.ribeiro15@exemplo.com,PR,Pequena Empresa,2025-06-12
+CUST-0016,Larissa Ribeiro,larissa.ribeiro16@exemplo.com,SP,Corporativo,2024-06-28
+CUST-0017,Patrícia Lima,patrícia.lima17@exemplo.com,CE,Pequena Empresa,2024-10-31
+CUST-0018,Sofia Almeida,sofia.almeida18@exemplo.com,PE,Pequena Empresa,2024-10-28
+CUST-0019,Gabriela Pereira,gabriela.pereira19@exemplo.com,SP,Varejo,2025-05-30
+CUST-0020,Sofia Carvalho,sofia.carvalho20@exemplo.com,SP,Corporativo,2024-11-20
+CUST-0021,Patrícia Cardoso,patrícia.cardoso21@exemplo.com,MG,Pequena Empresa,2024-12-20
+CUST-0022,Sofia Carvalho,sofia.carvalho22@exemplo.com,SC,Varejo,2025-06-26
+CUST-0023,Larissa Araújo,larissa.araújo23@exemplo.com,RJ,Corporativo,2024-04-25
+CUST-0024,Sofia Alves,sofia.alves24@exemplo.com,CE,Corporativo,2025-06-24
+CUST-0025,Natália Martins,natália.martins25@exemplo.com,GO,Corporativo,2024-05-05
+CUST-0026,Marcos Rocha,marcos.rocha26@exemplo.com,SC,Varejo,2024-10-29
+CUST-0027,João Lima,joão.lima27@exemplo.com,RJ,Varejo,2024-08-27
+CUST-0028,João Santos,joão.santos28@exemplo.com,SP,Varejo,2024-01-14
+CUST-0029,Carla Alves,carla.alves29@exemplo.com,GO,Varejo,2024-04-05
+CUST-0030,Isabela Nascimento,isabela.nascimento30@exemplo.com,CE,Corporativo,2024-07-15
+CUST-0031,Rafael Martins,rafael.martins31@exemplo.com,SC,Corporativo,2025-03-11
+CUST-0032,Isabela Araújo,isabela.araújo32@exemplo.com,MG,Corporativo,2025-02-27
+CUST-0033,Bruno Costa,bruno.costa33@exemplo.com,SC,Pequena Empresa,2025-02-26
+CUST-0034,Isabela Rodrigues,isabela.rodrigues34@exemplo.com,GO,Varejo,2024-07-16
+CUST-0035,João Ribeiro,joão.ribeiro35@exemplo.com,RS,Pequena Empresa,2024-10-27
+CUST-0036,Isabela Ferreira,isabela.ferreira36@exemplo.com,PR,Varejo,2025-04-27
+CUST-0037,Marcos Cardoso,marcos.cardoso37@exemplo.com,SC,Corporativo,2024-08-26
+CUST-0038,Otávio Monteiro,otávio.monteiro38@exemplo.com,PR,Corporativo,2024-03-29
+CUST-0039,Otávio Rodrigues,otávio.rodrigues39@exemplo.com,PE,Pequena Empresa,2024-07-28
+CUST-0040,Felipe Souza,felipe.souza40@exemplo.com,PE,Pequena Empresa,2025-06-10
+CUST-0041,Gabriela Costa,gabriela.costa41@exemplo.com,SP,Pequena Empresa,2025-05-20
+CUST-0042,Rafael Ribeiro,rafael.ribeiro42@exemplo.com,GO,Varejo,2025-06-18
+CUST-0043,Felipe Lima,felipe.lima43@exemplo.com,BA,Pequena Empresa,2025-02-19
+CUST-0044,Natália Martins,natália.martins44@exemplo.com,PE,Corporativo,2024-05-28
+CUST-0045,Sofia Nascimento,sofia.nascimento45@exemplo.com,RJ,Pequena Empresa,2024-09-10
+CUST-0046,Marcos Araújo,marcos.araújo46@exemplo.com,SC,Pequena Empresa,2024-03-24
+CUST-0047,Carla Costa,carla.costa47@exemplo.com,PR,Corporativo,2025-05-11
+CUST-0048,Thiago Lima,thiago.lima48@exemplo.com,GO,Varejo,2024-09-26
+CUST-0049,Vitória Gomes,vitória.gomes49@exemplo.com,CE,Corporativo,2025-05-11
+CUST-0050,Wesley Ribeiro,wesley.ribeiro50@exemplo.com,SP,Varejo,2025-02-14
+CUST-0051,Carla Souza,carla.souza51@exemplo.com,GO,Varejo,2024-11-17
+CUST-0052,Felipe Rocha,felipe.rocha52@exemplo.com,CE,Varejo,2024-08-31
+CUST-0053,Wesley Souza,wesley.souza53@exemplo.com,SP,Corporativo,2025-03-06
+CUST-0054,Otávio Costa,otávio.costa54@exemplo.com,RS,Varejo,2024-09-20
+CUST-0055,Isabela Lima,isabela.lima55@exemplo.com,RJ,Pequena Empresa,2024-06-14
+CUST-0056,Otávio Ribeiro,otávio.ribeiro56@exemplo.com,SP,Varejo,2025-01-26
+CUST-0057,Thiago Costa,thiago.costa57@exemplo.com,SC,Corporativo,2024-06-25
+CUST-0058,Bruno Oliveira,bruno.oliveira58@exemplo.com,GO,Pequena Empresa,2024-05-20
+CUST-0059,Larissa Souza,larissa.souza59@exemplo.com,PR,Corporativo,2025-03-01
+CUST-0060,Daniel Martins,daniel.martins60@exemplo.com,RJ,Varejo,2024-04-21
